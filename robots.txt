@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://neolabs-clientes.github.io/rabat-music/sitemap.xml
