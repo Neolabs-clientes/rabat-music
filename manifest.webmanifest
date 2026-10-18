@@ -1,25 +1,30 @@
 {
+ "id": "https://neolabs-clientes.github.io/rabat-music/",
  "name": "Rabat Music Group",
  "short_name": "Web Rabat",
- "start_url": "./",
- "scope": "./",
+ "description": "Web oficial de Rabat Music Group",
+ "start_url": "https://neolabs-clientes.github.io/rabat-music/",
+ "scope": "https://neolabs-clientes.github.io/rabat-music/",
  "display": "standalone",
  "orientation": "portrait",
  "background_color": "#000000",
  "theme_color": "#000000",
+ "lang": "es",
  "icons": [
   {
-   "src": "assets/icons/v3/icon-192.png",
+   "src": "https://neolabs-clientes.github.io/rabat-music/assets/icons/v3/icon-192.png",
    "sizes": "192x192",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
   },
   {
-   "src": "assets/icons/v3/icon-512.png",
+   "src": "https://neolabs-clientes.github.io/rabat-music/assets/icons/v3/icon-512.png",
    "sizes": "512x512",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
   },
   {
-   "src": "assets/icons/v3/maskable-512.png",
+   "src": "https://neolabs-clientes.github.io/rabat-music/assets/icons/v3/maskable-512.png",
    "sizes": "512x512",
    "type": "image/png",
    "purpose": "maskable"
